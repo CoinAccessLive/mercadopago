@@ -2,7 +2,7 @@
 
 ZONA FAN 
 
-(<script src="https://www.mercadopago.com.mx/integrations/v1/web-payment-checkout.js"data-preference-id="754301506-fe942b5e-5cf6-42c4-9206-5408ee4a031a" data-source="button"></script>)
+![<script src="https://www.mercadopago.com.mx/integrations/v1/web-payment-checkout.js"data-preference-id="754301506-fe942b5e-5cf6-42c4-9206-5408ee4a031a" data-source="button"></script>]
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
