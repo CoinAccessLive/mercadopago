@@ -1,9 +1,8 @@
-## Welcome to GitHub Pages
+## ESCOGE EL BOTÓN DE PAGO DE ACUERDO A TU ORDEN PARA MERCADO PAGO
 
-You can use the [editor on GitHub](https://github.com/CoinAccessLive/mercadopago/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+ZONA FAN 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+<script src="https://www.mercadopago.com.mx/integrations/v1/web-payment-checkout.js"data-preference-id="754301506-fe942b5e-5cf6-42c4-9206-5408ee4a031a" data-source="button"></script>
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
