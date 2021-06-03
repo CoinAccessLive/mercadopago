@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://localhost.com" resolutions="1x" timestamp="1622681524272">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://localhost.com" resolutions="1x" timestamp="1622721834121">
   <folder name="css">
     <file name="site_global.css" crc="386871843"/>
-    <file name="master_a-master.css" crc="4080744089" ref="index"/>
+    <file name="master_a-master.css" crc="3803774815" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index"/>
-    <file name="index.css" crc="4045626043" ref="index"/>
-    <file name="nomq_index.css" crc="3858194948" ref="index"/>
+    <file name="index.css" crc="3938670955" ref="index"/>
+    <file name="nomq_index.css" crc="4024657746" ref="index"/>
     <file name="iefonts_index.css" crc="214816574" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -18,7 +18,7 @@
     <file name="require.js" crc="4157109226" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="logo 2.png" crc="326711665" ref="index">
+    <file name="logo 2w.png" crc="28939395" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -27,5 +27,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="150952464" seo="true" mt="1622681483991" redirect="true"/>
+  <file name="index.html" crc="4040971418" seo="true" mt="1622721833430" redirect="true"/>
 </manifest>
