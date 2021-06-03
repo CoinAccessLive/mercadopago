@@ -1,14 +1,14 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://localhost.com" resolutions="1x" timestamp="1622745213623">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://localhost.com" resolutions="1x" timestamp="1622745474288">
   <folder name="css">
     <file name="site_global.css" crc="386871843"/>
     <file name="master_a-master.css" crc="406259683" ref="index:aprobado:hold"/>
     <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index:aprobado:hold"/>
-    <file name="index.css" crc="3912027959" ref="index"/>
-    <file name="nomq_index.css" crc="4024657746" ref="index"/>
+    <file name="index.css" crc="436762453" ref="index"/>
+    <file name="nomq_index.css" crc="4062657045" ref="index"/>
     <file name="iefonts_index.css" crc="3924089968" ref="index"/>
-    <file name="aprobado.css" crc="3873552424" ref="aprobado"/>
+    <file name="aprobado.css" crc="152384287" ref="aprobado"/>
     <file name="iefonts_aprobado.css" crc="3924089968" ref="aprobado"/>
-    <file name="hold.css" crc="302906355" ref="hold"/>
+    <file name="hold.css" crc="286948968" ref="hold"/>
     <file name="iefonts_hold.css" crc="3924089968" ref="hold"/>
   </folder>
   <folder name="scripts">
@@ -33,7 +33,7 @@
     </file>
     <file name="a-master-favicon.ico" crc="4151287511" ref="index"/>
   </folder>
-  <file name="index.html" crc="24161930" seo="true" mt="1622745176123" redirect="true"/>
-  <file name="aprobado.html" crc="280475213" seo="true" mt="1622745191342" redirect="true"/>
-  <file name="hold.html" crc="178632082" seo="true" mt="1622745207491" redirect="true"/>
+  <file name="index.html" crc="4182172144" seo="true" mt="1622745466042" redirect="true"/>
+  <file name="aprobado.html" crc="3807751311" seo="true" mt="1622745289282" redirect="true"/>
+  <file name="hold.html" crc="3821487076" seo="true" mt="1622745276914" redirect="true"/>
 </manifest>
