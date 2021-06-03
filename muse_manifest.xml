@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://localhost.com" resolutions="1x" timestamp="1622722147928">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://localhost.com" resolutions="1x" timestamp="1622722568928">
   <folder name="css">
     <file name="site_global.css" crc="386871843"/>
     <file name="master_a-master.css" crc="406259683" ref="index:aprobado:hold"/>
@@ -6,9 +6,9 @@
     <file name="index.css" crc="3938670955" ref="index"/>
     <file name="nomq_index.css" crc="4024657746" ref="index"/>
     <file name="iefonts_index.css" crc="214816574" ref="index"/>
-    <file name="aprobado.css" crc="252985542" ref="aprobado"/>
+    <file name="aprobado.css" crc="3873552424" ref="aprobado"/>
     <file name="iefonts_aprobado.css" crc="3924089968" ref="aprobado"/>
-    <file name="hold.css" crc="4222660170" ref="hold"/>
+    <file name="hold.css" crc="302906355" ref="hold"/>
     <file name="iefonts_hold.css" crc="3924089968" ref="hold"/>
   </folder>
   <folder name="scripts">
@@ -33,6 +33,6 @@
     </file>
   </folder>
   <file name="index.html" crc="4040971418" seo="true" mt="1622721833430" redirect="true"/>
-  <file name="aprobado.html" crc="183238017" seo="true" mt="1622722081426" redirect="true"/>
-  <file name="hold.html" crc="4113149899" seo="true" mt="1622722135592" redirect="true"/>
+  <file name="aprobado.html" crc="293269549" seo="true" mt="1622722565027" redirect="true"/>
+  <file name="hold.html" crc="498032913" seo="true" mt="1622722552140" redirect="true"/>
 </manifest>
