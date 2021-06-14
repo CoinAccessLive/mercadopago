@@ -1,15 +1,15 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://localhost.com" resolutions="1x" timestamp="1622745474288">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://localhost.com" resolutions="1x" timestamp="1623709322905">
   <folder name="css">
     <file name="site_global.css" crc="386871843"/>
-    <file name="master_a-master.css" crc="406259683" ref="index:aprobado:hold"/>
+    <file name="master_a-master.css" crc="102118095" ref="index:aprobado:hold"/>
     <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index:aprobado:hold"/>
-    <file name="index.css" crc="436762453" ref="index"/>
-    <file name="nomq_index.css" crc="4062657045" ref="index"/>
-    <file name="iefonts_index.css" crc="3924089968" ref="index"/>
-    <file name="aprobado.css" crc="152384287" ref="aprobado"/>
-    <file name="iefonts_aprobado.css" crc="3924089968" ref="aprobado"/>
-    <file name="hold.css" crc="286948968" ref="hold"/>
-    <file name="iefonts_hold.css" crc="3924089968" ref="hold"/>
+    <file name="index.css" crc="3859520746" ref="index"/>
+    <file name="nomq_index.css" crc="4159457748" ref="index"/>
+    <file name="iefonts_index.css" crc="4119105986" ref="index"/>
+    <file name="aprobado.css" crc="210945954" ref="aprobado"/>
+    <file name="iefonts_aprobado.css" crc="4119105986" ref="aprobado"/>
+    <file name="hold.css" crc="114953115" ref="hold"/>
+    <file name="iefonts_hold.css" crc="4119105986" ref="hold"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:aprobado:hold"/>
@@ -22,7 +22,8 @@
     <file name="require.js" crc="4157109226" ref="index:aprobado:hold"/>
   </folder>
   <folder name="images">
-    <file name="logo 2w.png" crc="28939395" ref="index:aprobado">
+    <file name="a-master-favicon.ico" crc="4151287511" ref="index"/>
+    <file name="logo 2.png" crc="326711665" ref="index:aprobado">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -31,9 +32,8 @@
       <caption webpage="index" alt=""/>
       <caption webpage="aprobado" alt=""/>
     </file>
-    <file name="a-master-favicon.ico" crc="4151287511" ref="index"/>
   </folder>
-  <file name="index.html" crc="4182172144" seo="true" mt="1622745466042" redirect="true"/>
-  <file name="aprobado.html" crc="3807751311" seo="true" mt="1622745289282" redirect="true"/>
-  <file name="hold.html" crc="3821487076" seo="true" mt="1622745276914" redirect="true"/>
+  <file name="index.html" crc="4193151113" seo="true" mt="1623709322289" redirect="true"/>
+  <file name="aprobado.html" crc="498279590" seo="true" mt="1623709322289" redirect="true"/>
+  <file name="hold.html" crc="327690094" seo="true" mt="1623709322289" redirect="true"/>
 </manifest>
