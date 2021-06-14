@@ -1,11 +1,11 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://localhost.com" resolutions="1x" timestamp="1623709322905">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://localhost.com" resolutions="1x" timestamp="1623711053612">
   <folder name="css">
     <file name="site_global.css" crc="386871843"/>
-    <file name="master_a-master.css" crc="102118095" ref="index:aprobado:hold"/>
+    <file name="master_a-master.css" crc="378146244" ref="index:aprobado:hold"/>
     <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index:aprobado:hold"/>
-    <file name="index.css" crc="3859520746" ref="index"/>
-    <file name="nomq_index.css" crc="4159457748" ref="index"/>
-    <file name="iefonts_index.css" crc="4119105986" ref="index"/>
+    <file name="index.css" crc="213658469" ref="index"/>
+    <file name="nomq_index.css" crc="213559758" ref="index"/>
+    <file name="iefonts_index.css" crc="214816574" ref="index"/>
     <file name="aprobado.css" crc="210945954" ref="aprobado"/>
     <file name="iefonts_aprobado.css" crc="4119105986" ref="aprobado"/>
     <file name="hold.css" crc="114953115" ref="hold"/>
@@ -33,7 +33,7 @@
       <caption webpage="aprobado" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4193151113" seo="true" mt="1623709322289" redirect="true"/>
+  <file name="index.html" crc="4294898972" seo="true" mt="1623711049165" redirect="true"/>
   <file name="aprobado.html" crc="498279590" seo="true" mt="1623709322289" redirect="true"/>
   <file name="hold.html" crc="327690094" seo="true" mt="1623709322289" redirect="true"/>
 </manifest>
