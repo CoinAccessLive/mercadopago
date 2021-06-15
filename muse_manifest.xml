@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://localhost.com" resolutions="1x" timestamp="1623734510285">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://localhost.com" resolutions="1x" timestamp="1623734540560">
   <folder name="assets">
     <file name="fed.jpg" crc="4040546192" seo="true" mt="1623732661000"/>
   </folder>
@@ -52,7 +52,7 @@
     <file name="fed-u3876-fr3.jpg" crc="4220156034" ref="index"/>
     <file name="fed-u3876-fr4.jpg" crc="4101472831" ref="index"/>
   </folder>
-  <file name="index.html" crc="132224226" seo="true" mt="1623734502440" redirect="true"/>
+  <file name="index.html" crc="3761989569" seo="true" mt="1623734535625" redirect="true"/>
   <file name="aprobado.html" crc="498279590" seo="true" mt="1623709322289" redirect="true"/>
   <file name="hold.html" crc="327690094" seo="true" mt="1623709322289" redirect="true"/>
 </manifest>
