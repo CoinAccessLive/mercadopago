@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://localhost.com" resolutions="1x" timestamp="1623756502945">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://localhost.com" resolutions="1x" timestamp="1623756592719">
   <folder name="assets">
     <file name="fed.jpg" crc="4040546192" seo="true" mt="1623732661000"/>
   </folder>
@@ -6,8 +6,8 @@
     <file name="site_global.css" crc="386871843"/>
     <file name="master_a-master.css" crc="102118095" ref="index:aprobado:hold"/>
     <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index:aprobado:hold"/>
-    <file name="index.css" crc="86102089" ref="index"/>
-    <file name="nomq_index.css" crc="197962186" ref="index"/>
+    <file name="index.css" crc="4182511315" ref="index"/>
+    <file name="nomq_index.css" crc="37763660" ref="index"/>
     <file name="iefonts_index.css" crc="214816574" ref="index"/>
     <file name="aprobado.css" crc="210945954" ref="aprobado"/>
     <file name="iefonts_aprobado.css" crc="4119105986" ref="aprobado"/>
@@ -35,16 +35,8 @@
       <caption webpage="index" alt=""/>
       <caption webpage="aprobado" alt=""/>
     </file>
-    <file name="fed.jpg" crc="3832907340" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="fed-u4003-fr.jpg" crc="479730259" ref="index"/>
-    <file name="fed-u4003-fr2.jpg" crc="164472381" ref="index"/>
-    <file name="fed-u4003-fr3.jpg" crc="3869038628" ref="index"/>
-    <file name="fed-u4003-fr4.jpg" crc="3830167721" ref="index"/>
   </folder>
-  <file name="index.html" crc="148774512" seo="true" mt="1623756497026" redirect="true"/>
+  <file name="index.html" crc="299948590" seo="true" mt="1623756587873" redirect="true"/>
   <file name="aprobado.html" crc="498279590" seo="true" mt="1623709322289" redirect="true"/>
   <file name="hold.html" crc="327690094" seo="true" mt="1623709322289" redirect="true"/>
 </manifest>
