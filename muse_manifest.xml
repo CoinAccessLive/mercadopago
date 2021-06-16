@@ -1,13 +1,13 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://localhost.com" resolutions="1x" timestamp="1623756633695">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://localhost.com" resolutions="1x" timestamp="1623822240868">
   <folder name="assets">
     <file name="fed.jpg" crc="4040546192" seo="true" mt="1623732661000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="386871843"/>
-    <file name="master_a-master.css" crc="102118095" ref="index:aprobado:hold"/>
+    <file name="master_a-master.css" crc="205833258" ref="index:aprobado:hold"/>
     <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index:aprobado:hold"/>
-    <file name="index.css" crc="86102089" ref="index"/>
-    <file name="nomq_index.css" crc="197962186" ref="index"/>
+    <file name="index.css" crc="50675505" ref="index"/>
+    <file name="nomq_index.css" crc="500937150" ref="index"/>
     <file name="iefonts_index.css" crc="214816574" ref="index"/>
     <file name="aprobado.css" crc="210945954" ref="aprobado"/>
     <file name="iefonts_aprobado.css" crc="4119105986" ref="aprobado"/>
@@ -35,16 +35,13 @@
       <caption webpage="index" alt=""/>
       <caption webpage="aprobado" alt=""/>
     </file>
-    <file name="fed.jpg" crc="3832907340" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="fed wrest comunicado 15 junio.jpg" crc="3901232269" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="fed-u4003-fr.jpg" crc="479730259" ref="index"/>
-    <file name="fed-u4003-fr2.jpg" crc="164472381" ref="index"/>
-    <file name="fed-u4003-fr3.jpg" crc="3869038628" ref="index"/>
-    <file name="fed-u4003-fr4.jpg" crc="3830167721" ref="index"/>
+    <file name="fed wrest comunicado 15 junio-u4003-fr.jpg" crc="457959809" ref="index"/>
+    <file name="fed wrest comunicado 15 junio-u4003-fr2.jpg" crc="322882018" ref="index"/>
   </folder>
-  <file name="index.html" crc="148774512" seo="true" mt="1623756497026" redirect="true"/>
+  <file name="index.html" crc="3809607580" seo="true" mt="1623822224229" redirect="true"/>
   <file name="aprobado.html" crc="498279590" seo="true" mt="1623709322289" redirect="true"/>
   <file name="hold.html" crc="327690094" seo="true" mt="1623709322289" redirect="true"/>
 </manifest>
