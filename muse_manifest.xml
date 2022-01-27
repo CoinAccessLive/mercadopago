@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://coinaccess.live" resolutions="1x" timestamp="1643318052148">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://coinaccess.live" resolutions="1x" timestamp="1643318172644">
   <folder name="fonts">
     <file name="copperplategothic-light.woff" crc="3830302447"/>
     <file name="copperplategothic-light.eot" crc="290471734"/>
@@ -31,12 +31,12 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="gruesome" alt=""/>
+      <caption webpage="gruesome" alt=""/>
+      <caption webpage="gruesome" alt=""/>
+      <caption webpage="gruesome" alt=""/>
       <caption webpage="tienda" alt=""/>
       <caption webpage="aprobado" alt=""/>
-      <caption webpage="gruesome" alt=""/>
-      <caption webpage="gruesome" alt=""/>
-      <caption webpage="gruesome" alt=""/>
-      <caption webpage="gruesome" alt=""/>
     </file>
     <file name="coinaccesslive-favicon.ico" crc="4151287511" ref="index:gruesome"/>
     <file name="sitecover.jpg" crc="3955882255" ref="index">
@@ -169,5 +169,5 @@
   </folder>
   <file name="index.html" crc="325535638" seo="true" mt="1643317911877" redirect="true"/>
   <file name="tienda.html" crc="3854960603" seo="true" mt="1643310295017" redirect="true"/>
-  <file name="gruesome.html" crc="4181382107" seo="true" mt="1643318047489" redirect="true"/>
+  <file name="gruesome.html" crc="4087628040" seo="true" mt="1643318169489" redirect="true"/>
 </manifest>
