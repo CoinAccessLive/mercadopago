@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://coinaccess.live" resolutions="1x" timestamp="1643317918589">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://coinaccess.live" resolutions="1x" timestamp="1643318052148">
   <folder name="fonts">
     <file name="copperplategothic-light.woff" crc="3830302447"/>
     <file name="copperplategothic-light.eot" crc="290471734"/>
@@ -12,8 +12,8 @@
     <file name="nomq_preview_master_coinaccesslive.css" crc="271996968" ref="tienda:index:gruesome"/>
     <file name="tienda.css" crc="3931117509" ref="tienda"/>
     <file name="nomq_tienda.css" crc="4169969150" ref="tienda"/>
-    <file name="gruesome.css" crc="111952148" ref="gruesome"/>
-    <file name="nomq_gruesome.css" crc="3871329" ref="gruesome"/>
+    <file name="gruesome.css" crc="505880133" ref="gruesome"/>
+    <file name="nomq_gruesome.css" crc="127666429" ref="gruesome"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:tienda:gruesome"/>
@@ -26,15 +26,19 @@
     <file name="require.js" crc="4157109226" ref="index:tienda:gruesome"/>
   </folder>
   <folder name="images">
-    <file name="logo 2.png" crc="412237345" ref="index:tienda">
+    <file name="logo 2.png" crc="412237345" ref="index:tienda:gruesome">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="tienda" alt=""/>
       <caption webpage="aprobado" alt=""/>
+      <caption webpage="gruesome" alt=""/>
+      <caption webpage="gruesome" alt=""/>
+      <caption webpage="gruesome" alt=""/>
+      <caption webpage="gruesome" alt=""/>
     </file>
-    <file name="coinaccesslive-favicon.ico" crc="4151287511" ref="index"/>
+    <file name="coinaccesslive-favicon.ico" crc="4151287511" ref="index:gruesome"/>
     <file name="sitecover.jpg" crc="3955882255" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -100,40 +104,60 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="fb.png" crc="4270932135" ref="index:tienda">
+    <file name="fb.png" crc="4270932135" ref="index:tienda:gruesome">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="tienda" alt=""/>
+      <caption webpage="gruesome" alt=""/>
+      <caption webpage="gruesome" alt=""/>
+      <caption webpage="gruesome" alt=""/>
+      <caption webpage="gruesome" alt=""/>
     </file>
-    <file name="twitter.png" crc="336600176" ref="index:tienda">
+    <file name="twitter.png" crc="336600176" ref="index:tienda:gruesome">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="tienda" alt=""/>
+      <caption webpage="gruesome" alt=""/>
+      <caption webpage="gruesome" alt=""/>
+      <caption webpage="gruesome" alt=""/>
+      <caption webpage="gruesome" alt=""/>
     </file>
-    <file name="ig icon.png" crc="3960174601" ref="index:tienda">
+    <file name="ig icon.png" crc="3960174601" ref="index:tienda:gruesome">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="tienda" alt=""/>
+      <caption webpage="gruesome" alt=""/>
+      <caption webpage="gruesome" alt=""/>
+      <caption webpage="gruesome" alt=""/>
+      <caption webpage="gruesome" alt=""/>
     </file>
-    <file name="yt.png" crc="8228158" ref="index:tienda">
+    <file name="yt.png" crc="8228158" ref="index:tienda:gruesome">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="tienda" alt=""/>
+      <caption webpage="gruesome" alt=""/>
+      <caption webpage="gruesome" alt=""/>
+      <caption webpage="gruesome" alt=""/>
+      <caption webpage="gruesome" alt=""/>
     </file>
-    <file name="tiktok.png" crc="4149722321" ref="index:tienda">
+    <file name="tiktok.png" crc="4149722321" ref="index:tienda:gruesome">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="tienda" alt=""/>
+      <caption webpage="gruesome" alt=""/>
+      <caption webpage="gruesome" alt=""/>
+      <caption webpage="gruesome" alt=""/>
+      <caption webpage="gruesome" alt=""/>
     </file>
     <file name="sitecover-u201-fr.jpg" crc="3981612345" ref="index"/>
     <file name="sitecover-u1331-fr.jpg" crc="282518805" ref="index"/>
@@ -145,5 +169,5 @@
   </folder>
   <file name="index.html" crc="325535638" seo="true" mt="1643317911877" redirect="true"/>
   <file name="tienda.html" crc="3854960603" seo="true" mt="1643310295017" redirect="true"/>
-  <file name="gruesome.html" crc="3866933089" seo="true" mt="1643317829037" redirect="true"/>
+  <file name="gruesome.html" crc="4181382107" seo="true" mt="1643318047489" redirect="true"/>
 </manifest>
