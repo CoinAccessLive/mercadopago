@@ -1,42 +1,144 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://localhost.com" resolutions="1x" timestamp="1643063548362">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://coinaccess.live" resolutions="1x" timestamp="1643271447575">
+  <folder name="fonts">
+    <file name="copperplategothic-light.woff" crc="3830302447"/>
+    <file name="copperplategothic-light.eot" crc="290471734"/>
+    <file name="copperplategothic-light.svg" crc="3879260927"/>
+  </folder>
   <folder name="assets">
-    <file name="fed.jpg" crc="4040546192" seo="true" mt="1623732661000"/>
+    <file name="boton-comprar.png" crc="143336801" seo="true" mt="1511191049000"/>
   </folder>
   <folder name="css">
-    <file name="site_global.css" crc="386871843"/>
-    <file name="master_a-master.css" crc="378146244" ref="index:aprobado:hold"/>
-    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index:aprobado:hold"/>
-    <file name="index.css" crc="393858494" ref="index"/>
-    <file name="nomq_index.css" crc="219744790" ref="index"/>
-    <file name="iefonts_index.css" crc="214816574" ref="index"/>
-    <file name="aprobado.css" crc="210945954" ref="aprobado"/>
-    <file name="iefonts_aprobado.css" crc="4119105986" ref="aprobado"/>
-    <file name="hold.css" crc="114953115" ref="hold"/>
-    <file name="iefonts_hold.css" crc="4119105986" ref="hold"/>
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="4161728281" ref="index"/>
+    <file name="nomq_index.css" crc="4243942319" ref="index"/>
+    <file name="master_coinaccesslive.css" crc="208600436" ref="tienda:index"/>
+    <file name="nomq_preview_master_coinaccesslive.css" crc="430353399" ref="tienda:index"/>
+    <file name="tienda.css" crc="134272598" ref="tienda"/>
+    <file name="nomq_tienda.css" crc="3791062962" ref="tienda"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:aprobado:hold"/>
-    <file name="museutils.js" crc="3803043152" ref="index:aprobado:hold"/>
-    <file name="whatinput.js" crc="86476730" ref="index:aprobado:hold"/>
-    <file name="museconfig.js" crc="380897831" ref="index:aprobado:hold"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:aprobado"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:aprobado:hold"/>
-    <file name="jquery.museresponsive.js" crc="3955820958" ref="index"/>
-    <file name="require.js" crc="4157109226" ref="index:aprobado:hold"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:tienda"/>
+    <file name="museutils.js" crc="3803043152" ref="index:tienda"/>
+    <file name="whatinput.js" crc="86476730" ref="index:tienda"/>
+    <file name="museconfig.js" crc="380897831" ref="index:tienda"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:tienda"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:tienda"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:tienda"/>
+    <file name="require.js" crc="4157109226" ref="index:tienda"/>
   </folder>
   <folder name="images">
-    <file name="a-master-favicon.ico" crc="4151287511" ref="index"/>
-    <file name="logo 2.png" crc="326711665" ref="index:aprobado">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+    <file name="logo 2.png" crc="412237345" ref="index:tienda">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="aprobado" alt=""/>
+      <caption webpage="tienda" alt=""/>
     </file>
+    <file name="coinaccesslive-favicon.ico" crc="4151287511" ref="index"/>
+    <file name="sitecover.jpg" crc="3955882255" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="shoptransparent.png" crc="375624830" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo 2w.png" crc="3992401551" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="8eba31e0.jpg" crc="4274804093" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="272451793_10159786508258529_1918792591443683838_n.jpg" crc="4000570063" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="phone.png" crc="14831691" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="untitled-1.jpg" crc="360621917" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="info.png" crc="116297094" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="brief.png" crc="373579287" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="check.png" crc="4180100304" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fb.png" crc="4270932135" ref="index:tienda">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="tienda" alt=""/>
+    </file>
+    <file name="twitter.png" crc="336600176" ref="index:tienda">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="tienda" alt=""/>
+    </file>
+    <file name="ig icon.png" crc="3960174601" ref="index:tienda">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="tienda" alt=""/>
+    </file>
+    <file name="yt.png" crc="8228158" ref="index:tienda">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="tienda" alt=""/>
+    </file>
+    <file name="tiktok.png" crc="4149722321" ref="index:tienda">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="tienda" alt=""/>
+    </file>
+    <file name="sitecover-u201-fr.jpg" crc="3981612345" ref="index"/>
+    <file name="sitecover-u1331-fr.jpg" crc="282518805" ref="index"/>
   </folder>
-  <file name="index.html" crc="3776035113" seo="true" mt="1643063535141" redirect="true"/>
-  <file name="aprobado.html" crc="498279590" seo="true" mt="1623709322289" redirect="true"/>
-  <file name="hold.html" crc="327690094" seo="true" mt="1623709322289" redirect="true"/>
+  <file name="index.html" crc="165799098" seo="true" mt="1643271440744" redirect="true"/>
+  <file name="tienda.html" crc="4070977228" seo="true" mt="1643271440744" redirect="true"/>
 </manifest>
