@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://coinaccess.live" resolutions="1x" timestamp="1643271494476">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://coinaccess.live" resolutions="1x" timestamp="1643271835760">
   <folder name="fonts">
     <file name="copperplategothic-light.woff" crc="3830302447"/>
     <file name="copperplategothic-light.eot" crc="290471734"/>
@@ -9,12 +9,12 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4161728281" ref="index"/>
-    <file name="nomq_index.css" crc="4243942319" ref="index"/>
-    <file name="master_coinaccesslive.css" crc="208600436" ref="tienda:index"/>
-    <file name="nomq_preview_master_coinaccesslive.css" crc="430353399" ref="tienda:index"/>
-    <file name="tienda.css" crc="134272598" ref="tienda"/>
-    <file name="nomq_tienda.css" crc="3791062962" ref="tienda"/>
+    <file name="index.css" crc="527552336" ref="index"/>
+    <file name="nomq_index.css" crc="5906123" ref="index"/>
+    <file name="master_coinaccesslive.css" crc="364142001" ref="tienda:index"/>
+    <file name="nomq_preview_master_coinaccesslive.css" crc="3934181199" ref="tienda:index"/>
+    <file name="tienda.css" crc="239345521" ref="tienda"/>
+    <file name="nomq_tienda.css" crc="3868878075" ref="tienda"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:tienda"/>
@@ -139,6 +139,6 @@
     <file name="sitecover-u201-fr.jpg" crc="3981612345" ref="index"/>
     <file name="sitecover-u1331-fr.jpg" crc="282518805" ref="index"/>
   </folder>
-  <file name="index.html" crc="165799098" seo="true" mt="1643271440744" redirect="true"/>
-  <file name="tienda.html" crc="4070977228" seo="true" mt="1643271440744" redirect="true"/>
+  <file name="index.html" crc="3919900909" seo="true" mt="1643271822326" redirect="true"/>
+  <file name="tienda.html" crc="319848919" seo="true" mt="1643271822326" redirect="true"/>
 </manifest>
