@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://coinaccess.live" resolutions="1x" timestamp="1643317840760">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://coinaccess.live" resolutions="1x" timestamp="1643317918589">
   <folder name="fonts">
     <file name="copperplategothic-light.woff" crc="3830302447"/>
     <file name="copperplategothic-light.eot" crc="290471734"/>
@@ -8,7 +8,7 @@
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="192712604" ref="index"/>
     <file name="nomq_index.css" crc="4048868826" ref="index"/>
-    <file name="master_coinaccesslive.css" crc="331006457" ref="tienda:index:gruesome"/>
+    <file name="master_coinaccesslive.css" crc="3941122444" ref="tienda:index:gruesome"/>
     <file name="nomq_preview_master_coinaccesslive.css" crc="271996968" ref="tienda:index:gruesome"/>
     <file name="tienda.css" crc="3931117509" ref="tienda"/>
     <file name="nomq_tienda.css" crc="4169969150" ref="tienda"/>
@@ -31,8 +31,8 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="aprobado" alt=""/>
       <caption webpage="tienda" alt=""/>
+      <caption webpage="aprobado" alt=""/>
     </file>
     <file name="coinaccesslive-favicon.ico" crc="4151287511" ref="index"/>
     <file name="sitecover.jpg" crc="3955882255" ref="index">
@@ -143,7 +143,7 @@
     <file name="storie-u6918-fr.jpg" crc="190289944" ref="gruesome"/>
     <file name="storie-u6918-fr2.jpg" crc="41071270" ref="gruesome"/>
   </folder>
-  <file name="index.html" crc="460897554" seo="true" mt="1643310295017" redirect="true"/>
+  <file name="index.html" crc="325535638" seo="true" mt="1643317911877" redirect="true"/>
   <file name="tienda.html" crc="3854960603" seo="true" mt="1643310295017" redirect="true"/>
   <file name="gruesome.html" crc="3866933089" seo="true" mt="1643317829037" redirect="true"/>
 </manifest>
