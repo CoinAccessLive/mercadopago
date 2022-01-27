@@ -1,4 +1,7 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://coinaccess.live" resolutions="1x" timestamp="1643318172644">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://coinaccess.live" resolutions="1x" timestamp="1643322299752">
+  <folder name="assets">
+    <file name="instrucciones_gruesome_pago_en_efectivo.pdf" crc="3937082417" seo="true" mt="1643322012000"/>
+  </folder>
   <folder name="fonts">
     <file name="copperplategothic-light.woff" crc="3830302447"/>
     <file name="copperplategothic-light.eot" crc="290471734"/>
@@ -6,14 +9,14 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="192712604" ref="index"/>
-    <file name="nomq_index.css" crc="4048868826" ref="index"/>
-    <file name="master_coinaccesslive.css" crc="3941122444" ref="tienda:index:gruesome"/>
+    <file name="index.css" crc="3845340077" ref="index"/>
+    <file name="nomq_index.css" crc="273346636" ref="index"/>
+    <file name="master_coinaccesslive.css" crc="74415396" ref="tienda:index:gruesome"/>
     <file name="nomq_preview_master_coinaccesslive.css" crc="271996968" ref="tienda:index:gruesome"/>
-    <file name="tienda.css" crc="3931117509" ref="tienda"/>
+    <file name="tienda.css" crc="4228026722" ref="tienda"/>
     <file name="nomq_tienda.css" crc="4169969150" ref="tienda"/>
-    <file name="gruesome.css" crc="505880133" ref="gruesome"/>
-    <file name="nomq_gruesome.css" crc="127666429" ref="gruesome"/>
+    <file name="gruesome.css" crc="287319624" ref="gruesome"/>
+    <file name="nomq_gruesome.css" crc="322563268" ref="gruesome"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:tienda:gruesome"/>
@@ -31,12 +34,12 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="gruesome" alt=""/>
-      <caption webpage="gruesome" alt=""/>
-      <caption webpage="gruesome" alt=""/>
-      <caption webpage="gruesome" alt=""/>
-      <caption webpage="tienda" alt=""/>
       <caption webpage="aprobado" alt=""/>
+      <caption webpage="tienda" alt=""/>
+      <caption webpage="gruesome" alt=""/>
+      <caption webpage="gruesome" alt=""/>
+      <caption webpage="gruesome" alt=""/>
+      <caption webpage="gruesome" alt=""/>
     </file>
     <file name="coinaccesslive-favicon.ico" crc="4151287511" ref="index:gruesome"/>
     <file name="sitecover.jpg" crc="3955882255" ref="index">
@@ -167,7 +170,7 @@
     <file name="storie-u6918-fr.jpg" crc="190289944" ref="gruesome"/>
     <file name="storie-u6918-fr2.jpg" crc="41071270" ref="gruesome"/>
   </folder>
-  <file name="index.html" crc="325535638" seo="true" mt="1643317911877" redirect="true"/>
-  <file name="tienda.html" crc="3854960603" seo="true" mt="1643310295017" redirect="true"/>
-  <file name="gruesome.html" crc="4087628040" seo="true" mt="1643318169489" redirect="true"/>
+  <file name="index.html" crc="65824824" seo="true" mt="1643318980906" redirect="true"/>
+  <file name="tienda.html" crc="350348904" seo="true" mt="1643318977680" redirect="true"/>
+  <file name="gruesome.html" crc="212918329" seo="true" mt="1643322296871" redirect="true"/>
 </manifest>
