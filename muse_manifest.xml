@@ -1,30 +1,29 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://coinaccess.live" resolutions="1x" timestamp="1643281492427">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://coinaccess.live" resolutions="1x" timestamp="1643317840760">
   <folder name="fonts">
     <file name="copperplategothic-light.woff" crc="3830302447"/>
     <file name="copperplategothic-light.eot" crc="290471734"/>
     <file name="copperplategothic-light.svg" crc="3879260927"/>
   </folder>
-  <folder name="assets">
-    <file name="boton-comprar.png" crc="143336801" seo="true" mt="1511191049000"/>
-  </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4227441472" ref="index"/>
-    <file name="nomq_index.css" crc="4091835211" ref="index"/>
-    <file name="master_coinaccesslive.css" crc="3850271229" ref="tienda:index"/>
-    <file name="nomq_preview_master_coinaccesslive.css" crc="3934181199" ref="tienda:index"/>
-    <file name="tienda.css" crc="4084540383" ref="tienda"/>
-    <file name="nomq_tienda.css" crc="45381204" ref="tienda"/>
+    <file name="index.css" crc="192712604" ref="index"/>
+    <file name="nomq_index.css" crc="4048868826" ref="index"/>
+    <file name="master_coinaccesslive.css" crc="331006457" ref="tienda:index:gruesome"/>
+    <file name="nomq_preview_master_coinaccesslive.css" crc="271996968" ref="tienda:index:gruesome"/>
+    <file name="tienda.css" crc="3931117509" ref="tienda"/>
+    <file name="nomq_tienda.css" crc="4169969150" ref="tienda"/>
+    <file name="gruesome.css" crc="111952148" ref="gruesome"/>
+    <file name="nomq_gruesome.css" crc="3871329" ref="gruesome"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:tienda"/>
-    <file name="museutils.js" crc="3803043152" ref="index:tienda"/>
-    <file name="whatinput.js" crc="86476730" ref="index:tienda"/>
-    <file name="museconfig.js" crc="380897831" ref="index:tienda"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:tienda"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:tienda"/>
-    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:tienda"/>
-    <file name="require.js" crc="4157109226" ref="index:tienda"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:tienda:gruesome"/>
+    <file name="museutils.js" crc="3803043152" ref="index:tienda:gruesome"/>
+    <file name="whatinput.js" crc="86476730" ref="index:tienda:gruesome"/>
+    <file name="museconfig.js" crc="380897831" ref="index:tienda:gruesome"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:tienda:gruesome"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:tienda:gruesome"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:tienda:gruesome"/>
+    <file name="require.js" crc="4157109226" ref="index:tienda:gruesome"/>
   </folder>
   <folder name="images">
     <file name="logo 2.png" crc="412237345" ref="index:tienda">
@@ -32,8 +31,8 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="tienda" alt=""/>
       <caption webpage="aprobado" alt=""/>
+      <caption webpage="tienda" alt=""/>
     </file>
     <file name="coinaccesslive-favicon.ico" crc="4151287511" ref="index"/>
     <file name="sitecover.jpg" crc="3955882255" ref="index">
@@ -138,7 +137,13 @@
     </file>
     <file name="sitecover-u201-fr.jpg" crc="3981612345" ref="index"/>
     <file name="sitecover-u1331-fr.jpg" crc="282518805" ref="index"/>
+    <file name="storie.jpg" crc="318614904" ref="gruesome">
+      <caption webpage="gruesome" alt=""/>
+    </file>
+    <file name="storie-u6918-fr.jpg" crc="190289944" ref="gruesome"/>
+    <file name="storie-u6918-fr2.jpg" crc="41071270" ref="gruesome"/>
   </folder>
-  <file name="index.html" crc="4116444107" seo="true" mt="1643281278642" redirect="true"/>
-  <file name="tienda.html" crc="527893385" seo="true" mt="1643281186045" redirect="true"/>
+  <file name="index.html" crc="460897554" seo="true" mt="1643310295017" redirect="true"/>
+  <file name="tienda.html" crc="3854960603" seo="true" mt="1643310295017" redirect="true"/>
+  <file name="gruesome.html" crc="3866933089" seo="true" mt="1643317829037" redirect="true"/>
 </manifest>
