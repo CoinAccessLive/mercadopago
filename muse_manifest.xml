@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://coinaccess.live" resolutions="1x" timestamp="1643272914399">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://coinaccess.live" resolutions="1x" timestamp="1643273262766">
   <folder name="fonts">
     <file name="copperplategothic-light.woff" crc="3830302447"/>
     <file name="copperplategothic-light.eot" crc="290471734"/>
@@ -9,7 +9,7 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="281486539" ref="index"/>
+    <file name="index.css" crc="3962804376" ref="index"/>
     <file name="nomq_index.css" crc="3840418103" ref="index"/>
     <file name="master_coinaccesslive.css" crc="317829054" ref="tienda:index"/>
     <file name="nomq_preview_master_coinaccesslive.css" crc="3934181199" ref="tienda:index"/>
@@ -57,7 +57,7 @@
     <file name="8eba31e0.jpg" crc="4274804093" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="272451793_10159786508258529_1918792591443683838_n.jpg" crc="4000570063" ref="index">
+    <file name="272451793_10159786508258529_1918792591443683838_n.jpg" crc="4017613640" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -139,6 +139,6 @@
     <file name="sitecover-u201-fr.jpg" crc="3981612345" ref="index"/>
     <file name="sitecover-u1331-fr.jpg" crc="282518805" ref="index"/>
   </folder>
-  <file name="index.html" crc="422755472" seo="true" mt="1643272908626" redirect="true"/>
+  <file name="index.html" crc="419395083" seo="true" mt="1643273260576" redirect="true"/>
   <file name="tienda.html" crc="319848919" seo="true" mt="1643271822326" redirect="true"/>
 </manifest>
