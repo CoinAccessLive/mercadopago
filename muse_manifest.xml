@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://coinaccess.live" resolutions="1x" timestamp="1644399169025">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://coinaccess.live" resolutions="1x" timestamp="1644399271550">
   <folder name="assets">
     <file name="instrucciones_gruesome_pago_en_efectivo.pdf" crc="3937082417" seo="true" mt="1643322012000"/>
     <file name="pouyaefectivoinstrucciones.pdf" crc="224970055" seo="true" mt="1644398657000"/>
@@ -180,7 +180,7 @@
     <file name="pouyaweb-u8643-fr2.jpg" crc="3962315283" ref="pouya"/>
     <file name="pouyaweb-u8643-fr3.jpg" crc="189073918" ref="pouya"/>
   </folder>
-  <file name="index.html" crc="4037055115" seo="true" mt="1644399166603" redirect="true"/>
+  <file name="index.html" crc="444927616" seo="true" mt="1644399263587" redirect="true"/>
   <file name="tienda.html" crc="3873526305" seo="true" mt="1644398385759" redirect="true"/>
   <file name="gruesome.html" crc="418413954" seo="true" mt="1644398385759" redirect="true"/>
   <file name="pouya.html" crc="3987920576" seo="true" mt="1644398922581" redirect="true"/>
