@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://coinaccess.live" resolutions="1x" timestamp="1644413119813">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://coinaccess.live" resolutions="1x" timestamp="1644490444999">
   <folder name="assets">
     <file name="instrucciones_gruesome_pago_en_efectivo.pdf" crc="3937082417" seo="true" mt="1643322012000"/>
-    <file name="pouyaefectivoinstrucciones.pdf" crc="224970055" seo="true" mt="1644398657000"/>
+    <file name="pouyaefectivoinstrucciones.pdf" crc="3796486745" seo="true" mt="1644490352000"/>
   </folder>
   <folder name="fonts">
     <file name="copperplategothic-light.woff" crc="3830302447"/>
@@ -11,9 +11,9 @@
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="79803387" ref="index"/>
-    <file name="master_coinaccesslive.css" crc="4129652810" ref="pouya:tienda:index:gruesome"/>
+    <file name="master_coinaccesslive.css" crc="479534910" ref="pouya:tienda:index:gruesome"/>
     <file name="nomq_preview_master_coinaccesslive.css" crc="271996968" ref="pouya:tienda:index:gruesome"/>
-    <file name="pouya.css" crc="379462314" ref="pouya"/>
+    <file name="pouya.css" crc="4086871558" ref="pouya"/>
     <file name="nomq_pouya.css" crc="4103481856" ref="pouya"/>
     <file name="tienda.css" crc="13893815" ref="tienda"/>
     <file name="nomq_tienda.css" crc="4169969150" ref="tienda"/>
@@ -32,12 +32,16 @@
     <file name="jquery.museresponsive.js" crc="3955820958" ref="index:tienda:gruesome:pouya"/>
   </folder>
   <folder name="images">
-    <file name="coinaccesslive-favicon.ico" crc="4151287511" ref="index"/>
-    <file name="logo 2.png" crc="412237345" ref="index:tienda">
+    <file name="coinaccesslive-favicon.ico" crc="4151287511" ref="index:pouya"/>
+    <file name="logo 2.png" crc="412237345" ref="index:tienda:pouya">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="pouya" alt=""/>
+      <caption webpage="pouya" alt=""/>
+      <caption webpage="pouya" alt=""/>
+      <caption webpage="pouya" alt=""/>
       <caption webpage="tienda" alt=""/>
     </file>
     <file name="sitecover.jpg" crc="3955882255" ref="index">
@@ -102,39 +106,59 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="fb.png" crc="4270932135" ref="index:tienda">
+    <file name="fb.png" crc="4270932135" ref="index:tienda:pouya">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="pouya" alt=""/>
+      <caption webpage="pouya" alt=""/>
+      <caption webpage="pouya" alt=""/>
+      <caption webpage="pouya" alt=""/>
       <caption webpage="tienda" alt=""/>
     </file>
-    <file name="twitter.png" crc="336600176" ref="index:tienda">
+    <file name="twitter.png" crc="336600176" ref="index:tienda:pouya">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="pouya" alt=""/>
+      <caption webpage="pouya" alt=""/>
+      <caption webpage="pouya" alt=""/>
+      <caption webpage="pouya" alt=""/>
       <caption webpage="tienda" alt=""/>
     </file>
-    <file name="ig icon.png" crc="3960174601" ref="index:tienda">
+    <file name="ig icon.png" crc="3960174601" ref="index:tienda:pouya">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="pouya" alt=""/>
+      <caption webpage="pouya" alt=""/>
+      <caption webpage="pouya" alt=""/>
+      <caption webpage="pouya" alt=""/>
       <caption webpage="tienda" alt=""/>
     </file>
-    <file name="yt.png" crc="8228158" ref="index:tienda">
+    <file name="yt.png" crc="8228158" ref="index:tienda:pouya">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="pouya" alt=""/>
+      <caption webpage="pouya" alt=""/>
+      <caption webpage="pouya" alt=""/>
+      <caption webpage="pouya" alt=""/>
       <caption webpage="tienda" alt=""/>
     </file>
-    <file name="tiktok.png" crc="4149722321" ref="index:tienda">
+    <file name="tiktok.png" crc="4149722321" ref="index:tienda:pouya">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="pouya" alt=""/>
+      <caption webpage="pouya" alt=""/>
+      <caption webpage="pouya" alt=""/>
+      <caption webpage="pouya" alt=""/>
       <caption webpage="tienda" alt=""/>
     </file>
     <file name="sitecover-u201-fr.jpg" crc="3981612345" ref="index"/>
@@ -153,5 +177,5 @@
   <file name="index.html" crc="4169864750" seo="true" mt="1644399263587" redirect="true"/>
   <file name="tienda.html" crc="3873526305" seo="true" mt="1644398385759" redirect="true"/>
   <file name="gruesome.html" crc="418413954" seo="true" mt="1644398385759" redirect="true"/>
-  <file name="pouya.html" crc="3972905771" seo="true" mt="1644413107382" redirect="true"/>
+  <file name="pouya.html" crc="4269248905" seo="true" mt="1644490423677" redirect="true"/>
 </manifest>
